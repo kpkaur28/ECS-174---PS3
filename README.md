@@ -1,4 +1,4 @@
-# ECS-174-PS3
+# ECS-174-PS_3
 
 1. Raw descriptor matching: Allow a user to select a region of interest (see
 provided selectRegion.m) in one frame, and then match descriptors in that region to
